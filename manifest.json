@@ -1,0 +1,33 @@
+{
+  "default_locale": "en",
+  "description": "Disposable email is a service that allows to receive email at a temporary address that self-destructed after a certain time elapses.",
+  "background": {
+    "scripts": []
+  },
+  "developer": {
+    "name": "LaRuaNa"
+  },
+  "icons": {
+    "19": "icons/19.png",
+    "38": "icons/38.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "manifest_version": 2,
+  "name": "Temp Mail",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking"
+  ],
+  "sidebar_action": {
+    "default_icon": {
+      "19": "icons/19.png",
+      "38": "icons/38.png"
+    },
+    "default_panel": "sidebar.html",
+    "default_title": "Temp Mail"
+  },
+  "version": "1.0.0",
+  "update_url": "https://extension-updates.opera.com/api/omaha/update/"
+
+}

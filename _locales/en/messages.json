@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "description": "Extension name.",
+    "message": "Temp Mail "
+  },
+  "extensionDescription": {
+    "description": "Description of extension functionality.",
+    "message": "Disposable email is a service that allows to receive email at a temporary address that self-destructed after a certain time elapses."
+  },
+  "extensionPanelURL": {
+    "description": "Extension URL.",
+    "message": "http://temp-mail.org/"
+  }
+}
